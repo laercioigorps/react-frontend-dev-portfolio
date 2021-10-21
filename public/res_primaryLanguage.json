@@ -64,14 +64,14 @@
       {
         "title": "Personal expenses",
         "startDate": "2020",
-        "description": "An app to keep track of personal expenses :), you can see it live here<https://github.com/laercioigorps/food>",
+        "description": "An app to keep track of personal expenses :), you can see it live here<https://giniapp.herokuapp.com/fino>",
         "images": [
           "images/portfolio/fino/dashcomp.png",
           "images/portfolio/fino/contascomp.png",
           "images/portfolio/fino/catcomp.png",
           "images/portfolio/fino/transacoescomp.png"
         ],
-        "url": "https://github.com/laercioigorps/igin",
+        "url": "https://github.com/laercioigorps/food",
         "technologies": [
           {
             "class": "devicon-django-plain",
