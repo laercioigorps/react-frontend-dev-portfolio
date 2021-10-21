@@ -37,7 +37,7 @@
       {
         "title": "improved Todo App",
         "startDate": "2021",
-        "description": "App to keep track of Goals and Needs based on deliveries, not simple tasks. It uses NextJs(React) in front end, and it is connected to an REST API made using djangoRestAPI<https://github.com/laercioigorps/igin>",
+        "description": "App to keep track of Goals and Needs, based on deliveries, not simple tasks. It uses NextJs(React) in the front end, and it is connected to a REST API made using djangoRestAPI<https://github.com/laercioigorps/igin>, it will be live soon :)",
         "images": [
           "images/portfolio/igin/dashboard-min.png",
           "images/portfolio/igin/goals-min.png",
