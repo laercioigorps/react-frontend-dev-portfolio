@@ -64,7 +64,7 @@
       {
         "title": "Personal expenses",
         "startDate": "2020",
-        "description": "An app to keep track of personal expenses :), you can see it live here<https://giniapp.herokuapp.com/fino>",
+        "description": "An app to keep track of personal expenses :), you can see it live here<https://giniapp.herokuapp.com>",
         "images": [
           "images/portfolio/fino/dashcomp.png",
           "images/portfolio/fino/contascomp.png",
