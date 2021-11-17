@@ -37,7 +37,7 @@
       {
         "title": "improved Todo App",
         "startDate": "2021",
-        "description": "App to keep track of Goals and Needs, based on deliveries, not simple tasks. It uses NextJs(React) in the front end, and it is connected to a REST API made using djangoRestAPI<https://github.com/laercioigorps/igin>, it will be live soon :)",
+        "description": "App to keep track of Goals and Needs, based on deliveries, not simple tasks. It uses NextJs(React) in the front end<https://github.com/laercioigorps/igin-front-end>, and it is connected to a REST API made using djangoRestAPI<https://github.com/laercioigorps/igin>, you can see it live at<https://iginapp.vercel.app/dashboard> :)",
         "images": [
           "images/portfolio/igin/dashboard-min.png",
           "images/portfolio/igin/goals-min.png",
@@ -45,7 +45,7 @@
           "images/portfolio/igin/step_detail-min.png"
           
         ],
-        "url": "https://github.com/laercioigorps/igin-front-end",
+        "url": "https://iginapp.vercel.app/dashboard",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -64,14 +64,14 @@
       {
         "title": "Personal expenses",
         "startDate": "2020",
-        "description": "An app to keep track of personal expenses :), you can see it live here<https://giniapp.herokuapp.com>",
+        "description": "An app to keep track of personal expenses :), you can see it live<https://giniapp.herokuapp.com> and the app is at<https://github.com/laercioigorps/food>",
         "images": [
           "images/portfolio/fino/dashcomp.png",
           "images/portfolio/fino/contascomp.png",
           "images/portfolio/fino/catcomp.png",
           "images/portfolio/fino/transacoescomp.png"
         ],
-        "url": "https://github.com/laercioigorps/food",
+        "url": "https://giniapp.herokuapp.com",
         "technologies": [
           {
             "class": "devicon-django-plain",
