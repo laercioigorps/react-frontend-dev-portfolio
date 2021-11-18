@@ -12,7 +12,7 @@
     "projects": [
       {
         "title": "coming soon",
-        "startDate": "2020",
+        "startDate": "2022",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
@@ -39,6 +39,7 @@
         "startDate": "2021",
         "description": "App to keep track of Goals and Needs, based on deliveries, not simple tasks. It uses NextJs(React) in the front end<https://github.com/laercioigorps/igin-front-end>, and it is connected to a REST API made using djangoRestAPI<https://github.com/laercioigorps/igin>, you can see it live at<https://iginapp.vercel.app/dashboard> :)",
         "images": [
+          "images/portfolio/igin/using-igin-app.jpg",
           "images/portfolio/igin/dashboard-min.png",
           "images/portfolio/igin/goals-min.png",
           "images/portfolio/igin/goal_detail-min.png",
