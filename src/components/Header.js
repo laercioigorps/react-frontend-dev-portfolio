@@ -47,7 +47,7 @@ class Header extends Component {
               <div className="title-container">
                 <HeaderTitleTypeAnimation />
               </div>
-              <div>contact me</div>
+              <div><a href="mailto:laercioigorps@gmail.com">contact me: laercioigorps@gmail.com</a></div>
               {/* <Switch
                 checked={this.state.checked}
                 onChange={this.onThemeSwitchChange}
