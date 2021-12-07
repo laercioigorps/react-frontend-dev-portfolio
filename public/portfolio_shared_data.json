@@ -78,6 +78,18 @@
           "name": "Git",
           "class": "devicon-git-plain",
           "level": "60"
+        },{
+          "name": "Testing",
+          "class": "devicon-devicon-plain",
+          "level": "60"
+        },{
+          "name": "TDD",
+          "class": "devicon-devicon-plain",
+          "level": "60"
+        },{
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "60"
         }
       ]
     }
