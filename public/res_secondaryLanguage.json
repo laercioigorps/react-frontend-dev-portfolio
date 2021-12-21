@@ -11,27 +11,19 @@
   },
   "projects": [
     {
-      "title": "coming soon",
-      "startDate": "2022",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-      "images": [
-        "images/portfolio/animal-shelter/p1.jpg"
-      ],
-      "url": "https://github.com/laercioigorps/",
-      "technologies": [
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
-        }
-      ]
+      "title": "Coming soon",
+        "startDate": "2022",
+        "description": "I'm working on an API that will give hints to appliance service workers about the object he is working on.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg"
+        ],
+        "url": "https://github.com/laercioigorps/igin-ngin",
+        "technologies": [
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          }
+        ]
     },
     {
       "title": "improved Todo App",
