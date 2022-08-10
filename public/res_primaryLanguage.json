@@ -11,17 +11,29 @@
     },
     "projects": [
       {
-        "title": "Coming soon",
+        "title": "Appliance services App",
         "startDate": "2022",
-        "description": "I'm working on an API that will give hints to appliance service workers about the object he is working on.",
+        "description": "I built the app to manage home appliance services and troubleshoot the problem. It keeps symptoms, problems, and solutions that later(future projects) can be used to predict the behavior of a given home appliance. I built the backend using containerized(Docker) Django and Django Rest Framework divided into 3 modules(appliances, profiles, and services) using test-driven development with more than 230 tests and deployed on Heroku. The front-end is ReactJs deployed on Vercel, links are on the Github page.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg"
+          "images/portfolio/appliance-services/dashboard.png",
+          "images/portfolio/appliance-services/service-detail.png",
+          "images/portfolio/appliance-services/service-list.png",
+          "images/portfolio/appliance-services/customer-list.png",
+          "images/portfolio/appliance-services/customer-create.png"
         ],
-        "url": "https://github.com/laercioigorps/igin-ngin",
+        "url": "https://github.com/laercioigorps/appliance-service-backend",
         "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
           {
             "class": "devicon-django-plain",
             "name": "Django"
+          },
+          {
+            "class": "devicon-tailwindcss-plain",
+            "name": "Tailwindcss"
           }
         ]
       },
