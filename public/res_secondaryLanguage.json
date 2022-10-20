@@ -1,7 +1,7 @@
 {
   "basic_info": {
-    "description_header": "Hi",
-    "description": "👋 Meu nome é Laercio Souza, sou desenvolvedor de sistemas :) Eu gosto de construir aplicações de internet, e pra isso eu aprendi React: para criar páginas front-end muito legais e Django para quando eu preciso de algo rápido, seguro e badass. Claro que são apenas ferramentas, trabalhar com frameworks modernos como esses é legal, mas nada como os fundamentos. O que você está vendo agora é eu tentando mostrar o meu trabalho. Se você gostar ou tiver algum feedback, por favor me contate. Muito obrigado. 💜",
+    "description_header": "Oi",
+    "description": "👋 Meu nome é Laercio Souza, Desenvolvedor de software Full Stack com experiência na construção de projetos usando Python, Django, Django Rest Framework, React, HTML5, Javascript, CSS, Git, Docker, Postgres e aplicando as melhores práticas como TDD e código limpo. Alguém que deseja participar de uma equipe e usar as melhores práticas para criar produtos incríveis. Adora ver coisas complexas simplificadas e aprender com os outros. 💜",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
